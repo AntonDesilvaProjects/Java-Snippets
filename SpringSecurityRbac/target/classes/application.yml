@@ -1,0 +1,9 @@
+server:
+  port: 3000
+
+spring:
+  datasource:
+    url: 'jdbc:mysql://localhost:3306/rbac'
+    username: 'root'
+    password: 'desilva5'
+    class: 'com.mysql.jdbc.Driver'
